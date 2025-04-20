@@ -110,7 +110,7 @@ function gerarLista() {
     "o jeito que você faz eu me sentir especial e impotante",
     "pois você me ama mesmo com todos os meus defeitos",
     "pois voce me ama mesmo quando eu erro",
-    "o jeito que você me faz ",
+    "o jeito que você me faz gozar",
     "você ser minha melhor amiga",
     "você ser minha namorada",
     "você ser minha esposa",
