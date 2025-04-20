@@ -107,7 +107,7 @@ function gerarLista() {
     "seus 'mais' no lugar de 'mas",
     "o modo como você sorri",
     "a forma como você se entrega pra mim",
-    "o jeito que você faz eu me sentir especial e impotante",
+    "o jeito que você faz eu me sentir especial e importante",
     "pois você me ama mesmo com todos os meus defeitos",
     "pois voce me ama mesmo quando eu erro",
     "o jeito que você me faz gozar",
