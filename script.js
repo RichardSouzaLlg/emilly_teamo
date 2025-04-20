@@ -166,7 +166,7 @@ function gerarLista() {
     "Seu jeito de dançar... aquela rebolada...",
   ];
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < 160; i++) {
     const item = document.createElement("li");
     const texto = coisasQueGosto[i % coisasQueGosto.length];
     item.textContent = `${i + 1}. ${texto}`;
