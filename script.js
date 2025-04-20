@@ -34,7 +34,7 @@ function gerarLista() {
     "Eu amo ser seu",
     "Eu amo a sua beleza maior que a de qualquer modelo",
     "Eu amo te fazer rir",
-    "Eu amo como sempre abro um sorriso quando te esuto",
+    "Eu amo como sempre abro um sorriso quando te escuto",
     "Eu amo como depois de tanto tempo sou completamente apaixonado por você",
     "Eu amo ficar bobo com você, rs.",
     "Eu amo como você arruma o cabelo",
